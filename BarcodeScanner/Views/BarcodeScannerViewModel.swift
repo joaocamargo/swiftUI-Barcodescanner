@@ -23,3 +23,4 @@ final class BarcodeScannerViewModel: ObservableObject {
     }
     
 }
+	
